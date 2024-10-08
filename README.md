@@ -38,7 +38,7 @@ pip install torch torchvision numpy pandas matplotlib tqdm
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/yourusername/cats-vs-dogs-classification.git
+   git clone https://github.com/kasrababazadeh/cats-vs-dogs-classification.git
    cd cats-vs-dogs-classification
    ```
 
